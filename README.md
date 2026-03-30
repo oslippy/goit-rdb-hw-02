@@ -168,9 +168,7 @@ order → address → street, house
 ![ER diagram](https://github.com/oslippy/goit-rdb-hw-02/blob/main/Screenshot%202026-03-30%20at%2020.40.23.png)
 
 # Створені таблиці у БД
-![Image alt]()
+![created tables](https://github.com/oslippy/goit-rdb-hw-02/blob/main/Screenshot%202026-03-30%20at%2020.38.06.png)
+![created tables](https://github.com/oslippy/goit-rdb-hw-02/blob/main/Screenshot%202026-03-30%20at%2020.38.28.png)
+![created tables](https://github.com/oslippy/goit-rdb-hw-02/blob/main/Screenshot%202026-03-30%20at%2020.38.47.png)
 ---
-
-
-* додати **ER-діаграму в mermaid**
-* або написати **SQL DDL (CREATE TABLE)** під цю схему
